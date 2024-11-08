@@ -12,6 +12,7 @@
 ### New features
 
 - feat(clustering): add support for `k-means` clustering
+- feat(model): add `wav2vec_frozen` option to freeze/unfreeze `wav2vec` in `SSeRiouSS` architecture
 - feat(task): add support for manual optimization in `SpeakerDiarization` task
 - feat(utils): add `hidden` option to `ProgressHook`
 - feat(utils): add `FilterByNumberOfSpeakers` protocol files filter
