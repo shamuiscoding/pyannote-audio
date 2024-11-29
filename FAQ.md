@@ -30,7 +30,7 @@ pyannote does not, but [diart](https://github.com/juanmc2005/diart) (which is ba
 <a name="how-can-i-improve-performance"></a>
 ## How can I improve performance?
 
-**Short answer:** [pyannoteAI](https://www.pyannote.ai) precision model are usually much more accuracte (and faster).
+**Short answer:** [pyannoteAI](https://www.pyannote.ai) precision models are usually much more accuracte (and faster).
 
 **Long answer:**
 
