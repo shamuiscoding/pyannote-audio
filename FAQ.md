@@ -25,9 +25,7 @@ That being said, this whole authentication process does not prevent you from usi
 <a name="does-pyannote-support-streaming-speaker-diarization"></a>
 ## Does pyannote support streaming speaker diarization?
 
-**Short answer:** not out of the box, no.
-
-**Long answer:** [I](https://herve.niderb.fr) am looking for sponsors to add this feature. In the meantime, [`diart`](https://github.com/juanmc2005/StreamingSpeakerDiarization) is the closest you can get from a streaming `pyannote.audio`. You might also be interested in [this blog post](https://herve.niderb.fr/fastpages/2021/08/05/Streaming-voice-activity-detection-with-pyannote.html) about streaming voice activity detection based on `pyannote.audio`.
+pyannote does not, but [diart](https://github.com/juanmc2005/diart) (which is based on pyannote) does.
 
 <a name="how-can-i-improve-performance"></a>
 ## How can I improve performance?
